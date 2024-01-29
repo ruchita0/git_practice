@@ -5,6 +5,6 @@ Last Name :- Mangalaram.
 College Name:- N.K Orchid College Of Engineering & Technology, Solapur...
 Branch :-  CSE..
 
-
+Good at Programming :- Yes 
 this is my details.....
 
