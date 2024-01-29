@@ -1,4 +1,6 @@
 First Name:- Ruchita.
 Middle Name :- Chakrapani.
 Last Name :- Mangalaram.
-This is about me..
+
+College Name:- N.K Orchid College Of Engineering & Technology, Solapur...
+Branch :-  CSE..
